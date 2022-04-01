@@ -9,7 +9,7 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <h1 className="tex-4xl font-bold text-red-500">NFT DROP</h1>
+      <h1 className="tex-4xl font-bold text-red-500">ORGANIX COZMOZ</h1>
     </div>
   )
 }
